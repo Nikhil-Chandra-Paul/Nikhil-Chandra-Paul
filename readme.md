@@ -1,9 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Nikhil-Chandra-Paul"/alt="Nikhil_Paul" /> </p>
 <p align="center">
-<br><img src="Developer.gif" width="400px"><br><br>
+<br><img src="Developer.gif" width="400px"><br/><br/>
 
 <h2 align="center">Hi 👋, I'm Paul :)</h2>
-
 
 ---
 
