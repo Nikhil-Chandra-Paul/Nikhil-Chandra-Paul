@@ -4,8 +4,6 @@
 
 <h2 align="center">Hi 👋, I'm Paul :)</h2>
 
----
-
 <br>
 <div align="center">
 <a href="https://www.linkedin.com/in/nikhil-chandra-paul/">
