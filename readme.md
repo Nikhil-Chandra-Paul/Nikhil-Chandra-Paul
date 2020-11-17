@@ -3,7 +3,7 @@
 <br><img src="Developer.gif" width="400px"><br><br>
 
 <h2 align="center">Hi 👋, I'm Paul :)</h2>
-<br>
+
 
 ---
 
