@@ -24,7 +24,4 @@
 
 </div >
 <br>  
-<br>  
-<div align="center">
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Chandra-Paul&count_private=true&show_icons=true&hide_border=true&theme=monokai" href="https://github.com/Nikhil-Chandra-Paul"/>
-</div>
+<br> 
